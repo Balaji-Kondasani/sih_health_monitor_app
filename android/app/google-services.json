@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960321045367",
+    "project_id": "health-monitor-app-backend",
+    "storage_bucket": "health-monitor-app-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960321045367:android:12868bbb2ddd4b8af91772",
+        "android_client_info": {
+          "package_name": "com.example.sih_health_monitor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960321045367-s3elutffgednfu0arvkb713uerjoc6ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0OOyBpgOWDvsd3LLQPrlQ4_6UkMQ11o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960321045367-s3elutffgednfu0arvkb713uerjoc6ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
