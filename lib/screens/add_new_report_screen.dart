@@ -212,7 +212,7 @@ class _AddNewReportScreenState extends State<AddNewReportScreen> {
                     Text("Water Quality Details", style: Theme.of(context).textTheme.titleLarge),
                     const SizedBox(height: 16),
                     DropdownButtonFormField<String>(
-                      value: _selectedWaterSource,
+                      initialValue: _selectedWaterSource,
                       hint: const Text('Select Water Source Tested'),
                       onChanged: (String? newValue) {
                         setState(() {

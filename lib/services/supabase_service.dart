@@ -92,6 +92,7 @@ class SupabaseService {
           'POINT(${locationData.longitude} ${locationData.latitude})';
 
       await _client.from('reports').insert({
+
         'created_by': user.id,
         'village_name': villageName,
         'diarrhea_cases': diarrheaCases,
