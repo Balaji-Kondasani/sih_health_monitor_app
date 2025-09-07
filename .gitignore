@@ -10,7 +10,13 @@
 .history
 .svn/
 .swiftpm/
+
 migrate_working_dir/
+supabase/.env
+supabase/functions/.env
+
+
+node_modules/
 
 # IntelliJ related
 *.iml
